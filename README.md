@@ -8,7 +8,8 @@ Coronary heart disease is a type of heart disease where the arteries of the hear
 The dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). The dataset provides the patient's information. It includes over 4,000 records and 15 attributes. Each attribute is a potential risk factor. There are both demographic and behavioral and medical risk factors.
 
 ## Dataset :
-- Demographic: 
+Demographic: 
+
 • Sex: male or female("M" or "F")
 
 • Age: Age of the patient;(Continuous - Although the recorded ages have been truncated to whole numbers, the concept of age is continuous)
